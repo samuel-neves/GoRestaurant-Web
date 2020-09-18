@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Camarão gostosão",
+      "price": "50.90",
+      "description": "Macarrão com camarão gostosão",
+      "available": true,
+      "id": 5
     }
   ]
 }
